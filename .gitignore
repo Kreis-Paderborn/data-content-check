@@ -1,7 +1,9 @@
 # my own
 config/environment_custom.bat
+Erweiterung für Punktübersicht/
 
 # Logs
 logs
 *.log
 npm-debug.log*
+
